@@ -13,9 +13,9 @@
     .conteudo {
         justify-content: flex-end;
         left: 0;
-        top: 2%;
+        top: 0;
         max-width: 80vw;
-        padding: 30px;
+        padding: 20px;
     }
 
     .conteudo .nome-personagem {
